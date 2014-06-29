@@ -1,0 +1,21 @@
+---BEGIN OS2 CRYPTO DATA---
+Description:
+    Signature
+
+File name:
+    ulaz.txt
+
+Method:
+    SHA-1
+    RSA
+
+Key length:
+    A0
+    0200
+
+Signature:
+    0f371bfa5ccd71d0ccd539d46c173507bc4e3ff72daf72d50ae22b69f05f
+    46d5d456d038e03b50b511b345eb1a9c2dc272ef23763c4293fe112562fe
+    657df519
+
+---END OS2 CRYPTO DATA---

@@ -1,0 +1,31 @@
+---BEGIN OS2 CRYPTO DATA---
+Description:
+    Envelope
+
+File name:
+    ulaz.txt
+
+Method:
+    AES
+    RSA
+    SHA-1
+
+Key length:
+    10
+    0200
+    A0
+
+Envelope data:
+    36mzTBv8uD6587uDw7knhQ==
+
+Signature:
+    0f371bfa5ccd71d0ccd539d46c173507bc4e3ff72daf72d50ae22b69f05f
+    46d5d456d038e03b50b511b345eb1a9c2dc272ef23763c4293fe112562fe
+    657df519
+
+Envelope crypt key:
+    1ce310ac1690ce57ceb3fd38bd1b1f81d52b31383b08372abded1e7e9c92
+    43f44c23b1f4d6d335c955a10ffa0012215307768ee6af648ad60b99fd95
+    12040a12
+
+---END OS2 CRYPTO DATA---

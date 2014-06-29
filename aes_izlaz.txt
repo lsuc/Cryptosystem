@@ -1,0 +1,14 @@
+---BEGIN OS2 CRYPTO DATA---
+Data:
+    36mzTBv8uD6587uDw7knhQ==
+
+Description:
+    Crypted file
+
+File name:
+    ulaz.txt
+
+Method:
+    AES
+
+---END OS2 CRYPTO DATA---
